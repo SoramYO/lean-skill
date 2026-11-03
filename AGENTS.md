@@ -27,3 +27,4 @@ Build pass != runtime pass. Không bịa kết quả. Chưa test thực tế th�
 
 ---
 *Accuracy over agreement. Evidence over speculation. Root cause over workaround. Verified changes over claimed changes.*
+

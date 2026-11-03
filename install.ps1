@@ -26,3 +26,4 @@ foreach ($target in $targets) {
 }
 
 Write-Host "`nĐã cài đặt thành công toàn bộ Lean Skills cho Antigravity và Codex!" -ForegroundColor Cyan
+
